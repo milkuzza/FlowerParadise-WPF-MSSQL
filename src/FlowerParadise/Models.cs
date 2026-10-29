@@ -50,7 +50,7 @@ namespace FlowerParadise
         public string ImagePath { get; set; }
         public long BasePriceKopecks { get; set; }
         public int Available { get; set; }
-        
+
 
         public decimal Price
         {
