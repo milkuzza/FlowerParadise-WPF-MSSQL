@@ -1,0 +1,13 @@
+﻿src/**/bin/
+src/**/obj/
+.vs/
+*.user
+tests/*.exe
+tests/*.exe.config
+/FlowerParadise.Tests.exe
+/FlowerParadise.Tests.exe.config
+/FlowerParadise_updated.exe
+/FlowerParadise_updated.exe.config
+*.inspect.ndjson
+*.mdf
+*.ldf

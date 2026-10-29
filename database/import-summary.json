@@ -1,0 +1,17 @@
+{
+  "tables": {
+    "roles": 3,
+    "users": 20,
+    "categories": 3,
+    "subcategories": 6,
+    "manufacturers": 16,
+    "products": 31,
+    "sizes": 10,
+    "stock_items": 73,
+    "orders": 10,
+    "order_items": 31
+  },
+  "available_units": 1910,
+  "ordered_units": 133,
+  "historical_total_rubles": 115735
+}
